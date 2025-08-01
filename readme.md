@@ -11,7 +11,7 @@ Das immich System wird auf einem headless Linux Server (Ubuntu 24.04.2 LTS) mit 
 **Nicht Bestandteil** der hier beschriebenen Sicherungsstrategie sind:
 
 - Die Installation und das Setup von immich mit Docker Compose. Eine Anleitung dazu befindet sich z.B. hier: [immich Docker Compose](https://immich.app/docs/install/docker-compose/)
-- Die Einrichtung von `rclone` (**Hinweis**: `rclone` nicht per `apt` installieren, besser die aktuelle Version direkt von der [rclone Webseite])[https://rclone.org/install/]  
+- Die Einrichtung von `rclone` (**Hinweis**: `rclone` nicht per `apt` installieren, besser die aktuelle Version direkt von der [rclone Webseite]([https://rclone.org/install/)  
 
 **Vorraussetzungen** an das System für das Setup:  
 
