@@ -1,0 +1,6 @@
+[Unit]
+Description=Immich Cloud Backup to krDrive
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/backup-immich.sh

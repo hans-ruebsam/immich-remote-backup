@@ -1,0 +1,9 @@
+[Unit]
+Description=Tägliches Immich Cloud Backup
+
+[Timer]
+OnCalendar=daily
+Persistent=true
+
+[Install]
+WantedBy=timers.target
